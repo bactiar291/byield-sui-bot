@@ -1,16 +1,6 @@
 {
-  "name": "byield-sui-bot",
-  "version": "1.0.0",
-  "description": "Bot swap SUI-nBTC di testnet Sui",
-  "main": "main.js",
-  "scripts": {
-    "start": "node main.js"
-  },
   "dependencies": {
     "@mysten/sui.js": "^0.54.1"  
-  },
-  "engines": {
-    "node": ">=18.x"
-  },
-  "type": "module"  
+    
+  }
 }
