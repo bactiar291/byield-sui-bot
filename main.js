@@ -10,8 +10,8 @@ const PACKAGE_ID = '0x4995e309e990a6a93224153108b26bf79197b234c51db6447bbae10b43
 const VAULT_OBJECT_ID = '0xf280477ca196a4bced5e1db4cd82fcdd647b55585b1d3838dcd8e1b829d263a4';
 const MIN_AMOUNT_MIST = 900000;    
 const MAX_AMOUNT_MIST = 7000000;   
-const MIN_DELAY_SEC = 5;          
-const MAX_DELAY_SEC = 12;          
+const MIN_DELAY_SEC = 2;          
+const MAX_DELAY_SEC = 3;          
 
 async function swapSuiForNBTC({
   privateKey,
