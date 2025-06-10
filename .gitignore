@@ -1,0 +1,4 @@
+node_modules/
+pk.txt
+.env
+*.log
